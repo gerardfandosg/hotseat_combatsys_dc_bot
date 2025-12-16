@@ -1,0 +1,27 @@
+{
+  "name": "hotseat_combatsys_dc_bot",
+  "version": "3.0.0",
+  "description": "A Discord bot to manage Medieval 2: Total War Hotseat Combat System.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "Gerard Fandos Garcia",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^14.25.1",
+    "dotenv": "^16.6.1",
+    "quick-yaml.db": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerardfandosg/hotseat_combatsys_dc_bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gerardfandosg/hotseat_combatsys_dc_bot/issues"
+  },
+  "homepage": "https://github.com/gerardfandosg/hotseat_combatsys_dc_bot#readme"
+}
